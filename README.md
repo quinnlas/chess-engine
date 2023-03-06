@@ -1,0 +1,1 @@
+A from scratch chess engine. Will use only tactics, not opening or endgame tables. WIP.
